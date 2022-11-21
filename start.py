@@ -6,7 +6,7 @@ from modules.print_number import print_number
 from telebot import TeleBot
 import telebot
 
-bot = TeleBot('5460289887:AAH3bTbgTvg9BDJtlTyTNTMfp85_EZDqGfw')
+bot = TeleBot('')
 
 number = [0, 0]
 current_operation = "+"
